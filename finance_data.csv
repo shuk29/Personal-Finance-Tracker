@@ -1,0 +1,35 @@
+date,amount,category,description
+30-06-2026,125,Income,Salary
+05-07-2026,125.0,Income,Side gig
+01-07-2026,3000.0,Income,Salary
+04-01-2026,180.0,Expense,Medicine
+10-01-2026,120.0,Expense,Bus fare
+15-01-2026,700.0,Income,Tutoring
+23-01-2026,450.0,Expense,Groceries
+31-01-2026,3000.0,Income,Salary
+06-02-2026,100.0,Expense,Coffee
+14-02-2026,350.0,Expense,Restaurant
+20-02-2026,900.0,Income,Bonus
+28-02-2026,3000.0,Income,Salary
+05-03-2026,220.0,Expense,Electricity bill
+11-03-2026,400.0,Expense,Books
+18-03-2026,650.0,Income,Side gig
+26-03-2026,500.0,Expense,Shopping
+31-03-2026,3000.0,Income,Salary
+07-04-2026,150.0,Expense,Taxi
+13-04-2026,275.0,Expense,Fuel
+21-04-2026,450.0,Income,Freelance project
+30-04-2026,3000.0,Income,Salary
+05-05-2026,125.0,Expense,Snacks
+11-05-2026,600.0,Expense,Home supplies
+19-05-2026,300.0,Income,Cashback
+31-05-2026,3000.0,Income,Salary
+03-06-2026,450.0,Expense,Groceries
+09-06-2026,100.0,Expense,Mobile recharge
+15-06-2026,550.0,Income,Tutoring
+22-06-2026,250.0,Expense,Internet bill
+30-06-2026,3000.0,Income,Salary
+01-07-2026,3000.0,Income,Salary
+02-07-2026,450.0,Expense,Groceries
+03-07-2026,90.0,Expense,Coffee
+04-07-2026,180.0,Expense,Restaurant
